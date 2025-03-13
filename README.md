@@ -78,5 +78,5 @@ Even if it’s a little rough around the edges 💻💥</br>
 ![UTM](https://img.shields.io/badge/UTM-%23555555.svg?style=for-the-badge&logoColor=white)
 
 # 📊 Github Stats:
-![Diogo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diogosantana2011&show_icons=true&theme=radical)
+![Diogo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diogosantana2011&show_icons=true&count_private=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogosantana2011&layout=compact&theme=radical)
