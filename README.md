@@ -25,12 +25,12 @@
 <br>- 🐍 Python scripts, shell scripting, and K6 performance testing (small bit as its not my strong suit) 
 <br>- ☕ Java coursework (M250), Gherkin specs, and automation logic  
 <br>- ⚛️ React & Next.js apps from side experiments  
-<br>- 📚 University modules: TM129, TM111, and more<br>
+<br>- 📚 University modules: TM129, TM111, and more
 <br>If I can learn it, I’ll probably code it — and if I code it, I’ll push it to GitHub. 
-<br>Even if it’s a little rough around the edges 💻💥<br>
+<br>Even if it’s a little rough around the edges 💻💥
 
-<br>📍 Based in **Cork, Ireland**  
-### <br>🔗 [Find me on LinkedIn](https://www.linkedin.com/in/diogo-santana-8a83bbb2/)<br>
+📍 Based in **Cork, Ireland**  
+### 🔗 [Find me on LinkedIn](https://www.linkedin.com/in/diogo-santana-8a83bbb2/)<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diogo-santana-8a83bbb2/)
