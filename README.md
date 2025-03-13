@@ -22,12 +22,12 @@
 
 ## <br>📁 I’ve got repos covering:  
 <br>- 🔧 **Cypress**, **Playwright**, **Robot Framework**, **Karate**, **TestCafe**, **Appium**  
-<br>- 🐍 Python scripts, shell scripting, and K6 performance testing (small bit as its not my strong suit) 
-<br>- ☕ Java coursework (M250), Gherkin specs, and automation logic  
-<br>- ⚛️ React & Next.js apps from side experiments  
-<br>- 📚 University modules: TM129, TM111, and more
+<br>- 🐍 Python scripts, shell scripting, and K6 performance testing (small bit as its not my strong suit)</br>
+<br>- ☕ Java coursework (M250), Gherkin specs, and automation logic</br>
+<br>- ⚛️ React & Next.js apps from side experiments</br>
+<br>- 📚 University modules: TM129, TM111, and more</br>
 <br>If I can learn it, I’ll probably code it — and if I code it, I’ll push it to GitHub. 
-<br>Even if it’s a little rough around the edges 💻💥
+Even if it’s a little rough around the edges 💻💥</br>
 
 📍 Based in **Cork, Ireland**  
 ### 🔗 [Find me on LinkedIn](https://www.linkedin.com/in/diogo-santana-8a83bbb2/)<br>
