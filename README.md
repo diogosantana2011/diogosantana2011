@@ -79,4 +79,4 @@ Even if it’s a little rough around the edges 💻💥</br>
 
 # 📊 Github Stats:
 ![Diogo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diogosantana2011&show_icons=true&count_private=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogosantana2011&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogosantana2011&layout=compact&theme=dark&hide_border=true&card_width=500)
