@@ -36,7 +36,7 @@ Even if it’s a little rough around the edges 💻💥</br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diegsan20) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diegsan20@gmail.com) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -78,5 +78,5 @@ Even if it’s a little rough around the edges 💻💥</br>
 ![UTM](https://img.shields.io/badge/UTM-%23555555.svg?style=for-the-badge&logoColor=white)
 
 # 📊 Github Stats:
-![Diogo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diogosantana2011&show_icons=true&count_private=true&theme=dark&hide_border=true&card_width=500&height=300)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogosantana2011&layout=compact&theme=dark&hide_border=true&card_width=500&height=300)
+![Diogo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diogosantana2011&show_icons=true&count_private=true&theme=dark&hide_border=false&card_width=500&height=300)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogosantana2011&layout=compact&theme=dark&hide_border=false&card_width=500&height=300)
