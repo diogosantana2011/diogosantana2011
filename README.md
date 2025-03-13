@@ -73,3 +73,5 @@ Even if it’s a little rough around the edges 💻💥</br>
 ![Warp](https://img.shields.io/badge/Warp-000000.svg?style=for-the-badge&logo=warp&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923.svg?style=for-the-badge&logo=dbeaver&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
+![UTM](https://img.shields.io/badge/UTM-%23555555.svg?style=for-the-badge&logoColor=white)
