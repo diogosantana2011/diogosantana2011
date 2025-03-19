@@ -77,6 +77,6 @@ Even if it’s a little rough around the edges 💻💥</br>
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![UTM](https://img.shields.io/badge/UTM-%23555555.svg?style=for-the-badge&logoColor=white)
 
-# 📊 Github Stats:
+<!--# 📊 Github Stats:
 ![Diogo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diogosantana2011&show_icons=true&count_private=true&theme=dark&hide_border=false&card_width=500&height=300)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogosantana2011&layout=compact&theme=dark&hide_border=false&card_width=500&height=300)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogosantana2011&layout=compact&theme=dark&hide_border=false&card_width=500&height=300)--!>
