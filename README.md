@@ -1,6 +1,6 @@
 ## 👋 Hello there!
 <br>I'm **Diogo**, a curious and detail-driven **QA Engineer**, currently diving deeper into **Computing & IT** through The Open University.<br>
-<br>This space is where I keep all my projects, learning, and experiments — feel free to request access if you want to snoop around! :><br>
+<br>This space is where I keep all my projects, learning, and experiments ; feel free to request access if you want to snoop around! :><br>
 <br>Most of my repositories are private... mostly because I’m slightly embarrassed by my code 😅 but hey, it works!<br>
 
 ### <br>🔭 I’m currently working on  
@@ -10,7 +10,7 @@
 <br>- Keeping my uni assignments and experiments in one tidy place<br>
 
 ### <br>🌱 I’m currently learning
-<br>- Java & SQL (for uni and work — lucky overlap!)  
+<br>- Java & SQL (for uni and work, lucky overlap!)  
 <br>- Backend development and RESTful API testing  
 <br>- CI/CD workflows and test environment optimization<br>
 
@@ -25,7 +25,7 @@
 <br>- ☕ Java coursework (M250), Gherkin specs, and automation logic</br>
 <br>- ⚛️ React & Next.js apps from side experiments</br>
 <br>- 📚 University modules: TM129, TM111, and more</br>
-<br>If I can learn it, I’ll probably code it — and if I code it, I’ll push it to GitHub. 
+<br>If I can learn it, I’ll probably code it - and if I code it, I’ll push it to GitHub. 
 Even if it’s a little rough around the edges 💻💥</br>
 
 📍 Based in **Cork, Ireland**  
